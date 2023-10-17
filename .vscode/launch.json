@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DeviceSampleCatcherApplication<device-sample-catcher>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.yogomatt.iot.devicesamplecatcher.DeviceSampleCatcherApplication",
+            "projectName": "device-sample-catcher",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
